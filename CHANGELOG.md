@@ -1,3 +1,8 @@
+## 0.2.4
+
+* Bump AGP to 9.0.0, Gradle to 9.1.0
+* Migrate to Kotlin 2.3.0
+
 ## 0.2.3
 
 * Fix AVAudioSession() method handler throwing when arguments is null (@snipd-mikel).
